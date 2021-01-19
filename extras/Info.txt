@@ -1,0 +1,74 @@
+Free Host: https://docs.github.com/pt/free-pro-team@latest/github/working-with-github-pages/about-github-pages
+Faz host de graça e podemos meter qualquer dominio que queremos, só para paginas estaticas (html+css+JS cliente side)
+
+Como alterar o dominio: https://docs.github.com/pt/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
+Isto tenho de fazer com o responsavel do agrupamento, duvido que ele saiba e terá de ser no email da organização que ele escolher
+
+Todas estas imagens foram retiradas da pagina principal: https://www.facebook.com/Movimentobq
+
+Codigos de Cor (RGB):
+Castanho Claro - Papi: #dfb390
+Castanho Escuro - Papi: #8c6337
+Amarelo - Papi: #ffef01
+Preto - Papi: #211f20
+Azul - papi: #00adf1
+Laranja - Bebe fundo: #dc872a
+Cor-de-pele bebe: #e5c4b5
+
+
+Banner Facebook: https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/44254014_1968612733438684_9198329160588591104_o.jpg?_nc_cat=107&ccb=2&_nc_sid=e3f864&_nc_eui2=AeGiwqqhICVfwSf9yLN0uJyZQa61CFj3hs1BrrUIWPeGzTa1Hi15uxNAMMXRM6djjvlqk9KompseW-qbwu6_EKV_&_nc_ohc=F3xz2_rFIVAAX-hZ_fR&_nc_ht=scontent.flis5-1.fna&oh=31c1e95c057f2107b138bb158fef9c27&oe=600AE89B
+
+Logo: https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/27337069_1819743131658979_7821847918730091511_n.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeFR3Fa4SOMlLKPJmXLFPNbkK6hpIa367zYrqGkhrfrvNnsNfZDwacAZoSqpxNByxSSxH3CRgyuBR9yECkAsdun7&_nc_ohc=YWqnvNHooyAAX-13Kkl&_nc_ht=scontent.flis5-1.fna&oh=2d958fd88d4fcd75c2b5c30fe431e008&oe=60070E06
+
+https://developers.facebook.com/
+https://developers.google.com/
+https://developers.google.com/youtube
+
+
+Localização do agrupamento em google maps: https://www.google.com/maps/place/Corpo+Nacional+de+Escutas+%E2%80%93+Agrupamento+59+%7C+S%C3%A3o+Sebasti%C3%A3o/@38.5227619,-8.8861646,17z/data=!4m5!3m4!1s0xd194300c6794be7:0x88962371431a3d16!8m2!3d38.5232541!4d-8.8850696
+Tambem podemos inserir um mapa na pagina, depois logo vejo como faço
+
+Email: movimentobq59@gmail.com  (quero meter um botão/icon para escrever um email para eles)
+
+https://developers.facebook.com/docs/plugins/page-plugin/
+feeder do facebook!
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMovimentobq&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+
+Botões para seguir, podemos adicionar mais cenas mas como so tenho o blogger e o facebook
+https://sharethis.com/platform/follow-buttons/facebook/
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5fe36a31536a450019dd301e&product=inline-follow-buttons" async="async"></script>
+
+Podemos recriar o botão!
+
+Onde insiro o codigo? E como?
+
+<html>
+ <head>
+  <title>Facil</title>
+
+   *Metemos o codigo aqui* do script aqui
+
+  </title>
+ </head>
+<body>
+ <conteudo>
+
+  <div class="sharethis-inline-share-buttons"></div> //este codigo é a posição do botão
+
+ </conteudo>
+</body>
+
+info que precisamos do agrupamento 59/movimento BQ:
+
+facebook: https://www.facebook.com/Movimentobq
+instagram:
+snapchat:
+youtube:
+blogger:http://agr59.blogspot.com/
+
+cookies.js
+https://www.w3schools.com/js/js_cookies.asp
