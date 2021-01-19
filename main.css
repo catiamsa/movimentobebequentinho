@@ -1,0 +1,124 @@
+.altura-80 {
+    min-height: 91vh;
+}
+
+.altura-40 {
+    min-height: 40vh;
+}
+
+.fundo-picture {
+    background: url(extras/PagRui.jpeg)center/cover no-repeat fixed;
+}
+
+#fader {
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.5) 0%,rgba(0, 0, 0, .5) 100%);
+}
+
+#nomeFonte {
+    font-family: 'Dancing Script', cursive;
+}
+
+.carousel .item {
+    height: 500px;
+    width: auto;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+    width: auto;
+}
+
+.navbar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jumbotron {
+    background-color: #00adf1;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    background-color: #00adf1;
+    border-bottom: 1px solid #CCCCCC;
+    border-top: 1px solid #DDDDDD;
+}
+
+    .footer h3 {
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 27px;
+        padding: 40px 0 0px;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+    }
+
+    .footer h4 {
+        color: white;
+        font-size: 2em;
+        font-weight: 600;
+        line-height: 38px;
+        padding: 40px 0 10px;
+        font-family: cursive;
+        font-weight: lighter
+    }
+
+    .footer ul {
+        font-size: 13px;
+        list-style-type: none;
+        margin-left: 0;
+        padding-left: 0;
+        margin-top: 0px;
+        color: #7F8C8D;
+        padding: 0 0 8px 0;
+    }
+
+.email {
+    border-bottom: 3px solid #fff;
+}
+
+.footer ul li a {
+    padding: 0 0 12px 0;
+    display: block;
+}
+
+.footer a {
+    color: white;
+    font-weight: lighter;
+}
+
+.footer p {
+    color: white;
+    font-weight: lighter;
+}
+
+.footer-bottom {
+    margin-top: 2em;
+    border-top: 1px solid #DDDDDD;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.paginaCatia {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif font-weight: normal;
+}
+
+.principal-section .principal-content {
+    padding-top: 50px;
+}
